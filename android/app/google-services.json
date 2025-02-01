@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361874230333",
+    "project_id": "tiku-winner-gaming",
+    "storage_bucket": "tiku-winner-gaming.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361874230333:android:3a1d722747084a216fee54",
+        "android_client_info": {
+          "package_name": "com.example.school_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361874230333-08sjsf9mrr9jtbqk9bhpchu5eqceair8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Your Current API Here"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361874230333-08sjsf9mrr9jtbqk9bhpchu5eqceair8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
