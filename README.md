@@ -8,6 +8,7 @@
 <img src="./assets/Image&Gif/SMS App.gif">
 <details>
   <summary align="center"><strong>Demo Images</strong> <p> (Click to Preview) </p></summary>
+  <div class="img_layout">
   <img src="./assets/Image&Gif/Img_1.PNG">
   <img src="./assets/Image&Gif/Img_2.PNG">
   <img src="./assets/Image&Gif/Img_3.PNG">
@@ -16,7 +17,16 @@
   <img src="./assets/Image&Gif/Img_6.PNG">
   <img src="./assets/Image&Gif/Img_7.PNG">
   <img src="./assets/Image&Gif/Img_8.PNG">
+  </div>
   </details>
+
+  <style>
+    .img_layout {
+      display:grid;
+      grid-template-columns: auto auto auto;
+      gap: 0.5rem;
+    }
+  </style>
 
 ---
 A **Flutter Web** and **Mobile** application for managing school operations, authentication, and data handling. This project includes Firebase authentication and Google Sign-In.
