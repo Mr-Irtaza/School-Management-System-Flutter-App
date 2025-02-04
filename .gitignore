@@ -46,5 +46,7 @@ app.*.map.json
 /android/app/release
 
 # You will get these files after installing Firebase
-/lib/firebase_options.dart
+firebase_options.dart
+android/app/google-services.json
+
 
