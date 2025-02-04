@@ -44,3 +44,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# You will get these files after installing Firebase
+/lib/firebase_options.dart
+
