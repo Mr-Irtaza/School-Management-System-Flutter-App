@@ -47,19 +47,19 @@ Make sure you have the following installed before running the project:
 
 ## 🛠️ Installation & Setup
 
-### 1⃣ Clone the Repository
+### 1 Clone the Repository
 ```bash
-git clone https://github.com/your-username/school-management.git
-cd school-management
+git clone https://github.com/Mr-Irtaza/school-management-system-Flutter-App.git
+cd school-management-system-flutter-app
 ```
 
-### 2⃣ Install Dependencies
+### 2 Install Dependencies
 Run the following command in the project directory:
 ```bash
 flutter pub get
 ```
 
-### 3⃣ Firebase Setup
+### 3 Firebase Setup
 - Create a **Firebase Project** on [Firebase Console](https://console.firebase.google.com/).
 - Enable **Authentication** (Email/Password, Google Sign-In).
 - Set up **Firestore Database**.
@@ -69,7 +69,7 @@ flutter pub get
   flutterfire configure
   ```
 
-### 4⃣ Run the App
+### 4 Run the App
 For **Web**:
 ```bash
 flutter run -d chrome
